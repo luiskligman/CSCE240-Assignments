@@ -1,0 +1,12 @@
+-13
+-37
+-56
+-23
+-24
+-24
+27
+222
+-34
+-8
+80
+Of the 11 values input, the 8th value entered (222) was the largest

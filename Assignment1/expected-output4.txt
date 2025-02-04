@@ -1,0 +1,7 @@
+13
+37
+56
+23
+24
+24
+Of the 6 values input, the 3rd value entered (56) was the largest
